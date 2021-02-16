@@ -1383,7 +1383,7 @@ header.page-header .main-menu.minified{
     line-height: 24px;
 }
 .menus-full .menu-meals-container ul .owl-item.active li h3{
-    color: #e36630;
+    color: #602841;
 }
 .menus-full .menu-meals-container ul .owl-item li:before{
     content: '';
@@ -1765,7 +1765,7 @@ header.page-header .main-menu.minified{
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #fefefe;
+    background-color: #602841;
     z-index: 999999;
     height: 100%;
     width: 100%;
